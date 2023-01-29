@@ -67,7 +67,6 @@ rodolfo.manin@gmail.com
 #include <Wire.h>
 
 // Get TEA5767 library at https://github.com/andykarpov/TEA5767
-//TEST
 #include <TEA5767.h>
 
 // Encoder pins
